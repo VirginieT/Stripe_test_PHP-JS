@@ -1,4 +1,4 @@
-# Stripe_test
+## Stripe_test
 
 Création d'un repo pour découvrir l'implémenter Stripe en PHP et JS.
 
@@ -22,3 +22,8 @@ Requête XHR  de façon asynchrone.
 - Validation du paiement.
 
 Utilisation de promesse JS pour gérer le paiement.
+
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
+   <img src="https://getcomposer.org/img/logo-composer-transparent.png" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
